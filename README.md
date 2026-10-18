@@ -32,3 +32,5 @@ b=0xb3312fa7e23ee7e4988e056be3f82d19181d9c6efe8141120314088f5013875ac656398d8a2e
 - [https://www.anthropic.com/research/ecdsa-curve-origins](https://www.anthropic.com/research/ecdsa-curve-origins)
 - [https://words.filippo.io/seeds-solved](https://words.filippo.io/seeds-solved)
 - [https://github.com/FiloSottile/mostly-harmless/blob/main/seeds/seeds.go](https://github.com/FiloSottile/mostly-harmless/blob/main/seeds/seeds.go)
+- [https://std.neuromancer.sk/nist/P-256](https://std.neuromancer.sk/nist/P-256)
+- [https://std.neuromancer.sk/nist/P-384](https://std.neuromancer.sk/nist/P-384)
