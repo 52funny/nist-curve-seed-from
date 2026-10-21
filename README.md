@@ -6,7 +6,7 @@ The original was posted on Anthropic blogs [https://www.anthropic.com/research/e
 
 ## Run Code!
 
-For run the code, you should have Zig(0.16.0) enviroment.
+For run the code, you should have Zig(0.17.0) enviroment.
 
 Then, run it!
 
